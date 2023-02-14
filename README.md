@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhid-Li&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Muhid-Li" /> </p>
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+
 <h1 align="center">Hi 👋, I'm Muhid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
