@@ -26,6 +26,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-muhid&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-muhid" /> </p>
 
+![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
+
+
+
 - 📫 How to reach me **muhidh21agmail.com**
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
